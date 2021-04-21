@@ -55,7 +55,7 @@ Reflect also on what kind of knowledge you used in this exercise:
 
 The goal of this exercise is to be a concrete thing to *do* when looking at new code for the first time. New code can be scary, doing something will help! Digital annotation can take a bit longer than on paper. Leave time for your group members to settle on a technique that works for them.
 
-### (12 mins) Independently - Examine structure
+### (9 mins) Independently - Examine structure
 
 Variables
 
@@ -72,7 +72,7 @@ Instantiation
 * Go through the code and circle all instances of classes in green
 * Then draw a link between classes and their instances
 
-### (10 mins) Together - Discuss the results
+### (9 mins) Together - Discuss the results
 
 * Did anyone have trouble deciding what constituted a variable, function or class?
 * What patterns are visible from the colors and links only?
@@ -99,6 +99,8 @@ Discuss in the group:
 
 Take turns in the group, and let every member talk about the code for 30 seconds (or less/more, could also be one sentence each). Try to add new information and not repeat things that have been said, and repeat until people do not know new things anymore.
 [Save the last word for me protocol](https://lead.nwp.org/knowledgebase/save-the-last-word-for-me-protocol/)
+
+## Stop - Time check! (20 minutes for the full thing, 5 minutes to just jump to the conclusion)
 
 ## Summary
 
